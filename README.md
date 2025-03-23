@@ -51,10 +51,10 @@ Here is a simple HTML & CSS snippet from the project:
 
 🚀 How to Run the Project
 Clone the repository:
-bash git clone https://github.com/pulkitbajaj13/Scm_Assignment2.git
+bash git clone https://github.com/pulkitbajaj13/Task1.2.git
 
 Navigate to the project directory:
-bash cd Scm_Assignment2
+bash cd Task1.2
 
 Open index.html in a browser to see the output.
 
